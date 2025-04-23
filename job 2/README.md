@@ -6,15 +6,7 @@ Projet d'apprentissage des tests unitaires en PHP avec PHPUnit.
 
 ---
 
-## Étape 1 : Initialisation du projet
-
-Création du dossier `test-unitaire-php-debutant`, initialisation avec Composer.
-
-![init composer](images/1.png)
-
----
-
-## Étape 2 - Installation de PHPUnit
+## Étape 1 - Installation de PHPUnit
 
 Installation de PHPUnit en dev dependency avec Composer.
 
@@ -34,5 +26,6 @@ Description : Création du fichier MathTest.php...
 ![Run tests](./images/5.png)
 Description : Exécution des tests avec PHPUnit...
 
-## Étape finale - Tests réussis ✅
-![Tests Ok](./images/6.png)
+## Étape 6 - Faire échouer volontairement le test
+![Run tests](./images/6.png)
+Description : Faire échouer volontairement le test...
